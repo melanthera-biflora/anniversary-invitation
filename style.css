@@ -310,15 +310,15 @@ a:hover{
     background-position: center;
 }
 .gallery-img:nth-child(1){
-    background-image: url("C:/Users/DELL/Desktop/anni-website/anni-invitation-website-main/1b2923297353ce0d9742.jpg");
+    background-image: url("1b2923297353ce0d9742.jpg");
     background-position-x: right;
 }
 .gallery-img:nth-child(3){
-    background-image: url("C:/Users/DELL/Desktop/anni-website/anni-invitation-website-main/cb7dd267821d3f43660c.jpg");
+    background-image: url("cb7dd267821d3f43660c.jpg");
 }
 .gallery-img:nth-child(2){
     background-position-y: top;
-    background-image: url("C:/Users/DELL/Desktop/anni-website/anni-invitation-website-main/f23dce249e5e23007a4f.jpg");
+    background-image: url("f23dce249e5e23007a4f.jpg");
 }
 @media (max-width:1000px){
     .gallery{
@@ -362,7 +362,7 @@ a:hover{
 .hands{
     height: 120vh;
     width: 100%;
-    background-image: url("C:/Users/DELL/Desktop/anni-website/anni-invitation-website-main/9e371d334d49f017a958.jpg");
+    background-image: url("9e371d334d49f017a958.jpg");
     background-size: cover;
     background-position-y: center;
     background-attachment: fixed;
@@ -418,7 +418,7 @@ a:hover{
     display: block;
     height: 100vh;
     width: 40vw;
-    background-image: url("C:Users/DELL/Desktop/anni-website/anni-invitation-website-main/815a14784402f95ca013.jpg");
+    background-image: url("815a14784402f95ca013.jpg");
     background-size: cover;
     background-position-y: top;
     background-repeat: no-repeat;
